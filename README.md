@@ -1,1 +1,0 @@
-# Learn_SQL_SERVER1
