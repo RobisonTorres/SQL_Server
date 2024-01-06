@@ -17,14 +17,4 @@ In essence, it has all the lessons that I had in SQL from the site [w3schools](h
     *DROP TABLE - deletes a table
     *CREATE INDEX - creates an index (search key)
     *DROP INDEX - deletes an index
-
-## Usage Instructions
-
-To make the most out of this repository, follow these steps:
-
-1. Clone the repository to your local machine.
-
-   ```bash
-   git clone https://github.com/RobisonTorres/SQL_Server.git
-   
    
