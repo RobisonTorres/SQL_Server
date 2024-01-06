@@ -1,8 +1,8 @@
-# SQL Server 
+## SQL Server 
 
-## This repository is a collection of some basic but usefull functions of SQL Server.
+### This repository is a collection of some basic but usefull functions of SQL Server.
 
-## Overview
+### Overview
 
 In essence, it has all the lessons that I had in SQL from the site [w3schools](https://www.w3schools.com/). I made each function with instructions to be able to take a quick review. Here are some SQL Commands covered:
 
