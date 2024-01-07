@@ -4,7 +4,7 @@
 
 ### Overview
 
-In essence, it has all the lessons that I had in SQL from the site [w3schools](https://www.w3schools.com/). I made each function with instructions to be able to take a quick review. It also has the database that I used to fallow the lessons.
+It includes all the lessons that I had in SQL from [w3schools](https://www.w3schools.com/), each function accompanied with instructions for a quick review. Additionally, the repository has the database that I used to fallow the lessons.
 
 ### Here are some SQL Commands covered:
 
@@ -17,5 +17,18 @@ In essence, it has all the lessons that I had in SQL from the site [w3schools](h
 * CREATE TABLE - creates a new table
 * ALTER TABLE - modifies a table
 * DROP TABLE - deletes a table
-* CREATE INDEX - creates an index (search key)
-* DROP INDEX - deletes an index
+
+### Usage Instructions
+
+To use this repository, follow these steps:
+
+1. Clone the repository to your local machine.
+
+   ```bash
+   git clone https://github.com/RobisonTorres/SQL_Server.git
+
+2. Download northwind.bak file and place it in this folder C:\Program Files (x86)\Microsoft SQL Server Management Studio 19.
+
+3. On Sql Sever, right click on "Database" and then press "Restore Database". On the windows that will open select "Device" and press the button in the right "...". On the next window, click on the button "Add". On the "Backup File location" paste this path "C:\Program Files (x86)\Microsoft SQL Server Management Studio 19" for example. Finally click on the name of the file and click ok.
+
+4. The database NORTHWND should be in "Database" section, if not right click on "Database" in press the button refresh.
