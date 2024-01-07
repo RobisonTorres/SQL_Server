@@ -27,7 +27,7 @@ To use this repository, follow these steps:
    ```bash
    git clone https://github.com/RobisonTorres/SQL_Server.git
 
-2. Download northwind.bak file and place it in this folder C:\Program Files (x86)\Microsoft SQL Server Management Studio 19.
+2. Place northwind.bak file in this folder C:\Program Files (x86)\Microsoft SQL Server Management Studio 19, on your local machine.
 
 3. On Sql Sever, right click on "Database" and then press "Restore Database". On the windows that will open select "Device" and press the button in the right "...". On the next window, click on the button "Add". On the "Backup File location" paste this path "C:\Program Files (x86)\Microsoft SQL Server Management Studio 19". Finally click on the name of the file and click ok.
 
