@@ -31,4 +31,4 @@ To use this repository, follow these steps:
 
 3. On Sql Sever, right click on "Database" and then press "Restore Database". On the windows that will open select "Device" and press the button in the right "...". On the next window, click on the button "Add". On the "Backup File location" paste this path "C:\Program Files (x86)\Microsoft SQL Server Management Studio 19". Finally click on the name of the file and click ok.
 
-4. The database NORTHWND should be in "Database" section. If not, right click on "Database" in press the button refresh.
+4. The database NORTHWND should be in "Database" section. If not, right click on "Database" and press the button "Refresh".
