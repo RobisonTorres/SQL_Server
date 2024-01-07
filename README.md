@@ -1,10 +1,10 @@
 ## SQL Server 
 
-### This repository is a collection of some basic but usefull functions of SQL Server.
+### This repository is a collection of some useful functions of SQL Server.
 
 ### Overview
 
-It includes all the lessons that I had in SQL from [w3schools](https://www.w3schools.com/), each function accompanied with instructions for a quick review. Additionally, the repository has the database that I used to fallow the lessons.
+It includes all the lessons that I had in SQL from [w3schools](https://www.w3schools.com/), each function accompanied with instructions and notes for a quick review. Additionally, the repository has the database that I used to fallow these lessons.
 
 ### Here are some SQL Commands covered:
 
@@ -29,6 +29,6 @@ To use this repository, follow these steps:
 
 2. Download northwind.bak file and place it in this folder C:\Program Files (x86)\Microsoft SQL Server Management Studio 19.
 
-3. On Sql Sever, right click on "Database" and then press "Restore Database". On the windows that will open select "Device" and press the button in the right "...". On the next window, click on the button "Add". On the "Backup File location" paste this path "C:\Program Files (x86)\Microsoft SQL Server Management Studio 19" for example. Finally click on the name of the file and click ok.
+3. On Sql Sever, right click on "Database" and then press "Restore Database". On the windows that will open select "Device" and press the button in the right "...". On the next window, click on the button "Add". On the "Backup File location" paste this path "C:\Program Files (x86)\Microsoft SQL Server Management Studio 19". Finally click on the name of the file and click ok.
 
-4. The database NORTHWND should be in "Database" section, if not right click on "Database" in press the button refresh.
+4. The database NORTHWND should be in "Database" section. If not, right click on "Database" in press the button refresh.
