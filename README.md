@@ -4,7 +4,7 @@
 
 ### Overview
 
-It includes all the lessons that I had in SQL from [w3schools](https://www.w3schools.com/), with instructions and notes in each function for a quick review. Additionally, the repository has the northwind database that I used to follow these lessons.
+It includes all the lessons that I had in SQL from [w3schools](https://www.w3schools.com/), with instructions and notes in each function for a quick review. Additionally, the repository has the NORTHWND database that I used to follow these lessons.
 
 ### Here are some SQL Commands covered:
 
