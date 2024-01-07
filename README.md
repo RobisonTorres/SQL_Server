@@ -4,7 +4,9 @@
 
 ### Overview
 
-In essence, it has all the lessons that I had in SQL from the site [w3schools](https://www.w3schools.com/). I made each function with instructions to be able to take a quick review. Here are some SQL Commands covered:
+In essence, it has all the lessons that I had in SQL from the site [w3schools](https://www.w3schools.com/). I made each function with instructions to be able to take a quick review. It also has the database that I used to fallow the lessons.
+
+###Here are some SQL Commands covered:
 
 * SELECT - extracts data from a database
 * UPDATE - updates data in a database
